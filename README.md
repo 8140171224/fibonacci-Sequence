@@ -1,6 +1,6 @@
 
 # define function fib: 'fibonacci'
-def fib(n):
+    def fib(n):
   # In fibonacci this is must reqd
   a, b = 0, 1
   # If elif else
