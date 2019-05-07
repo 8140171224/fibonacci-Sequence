@@ -12,14 +12,14 @@ def fib(n):
     print('not possible')
   # main block of code for fibonacci
   else:
-    # For first two digits
+   # For first two digits
     print(a)
     print(b)
-    # For loop for the logic of fibonacci
+   # For loop for the logic of fibonacci
     for i in range(2,n):
       c = a + b
       a, b = b, c
-      # For printing less then or equals too of fib(n) input fib(10)
+   # For printing less then or equals too of fib(n) input fib(10)
       if c <= n:
          print(c)
       else:
