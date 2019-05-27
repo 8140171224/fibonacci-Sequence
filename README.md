@@ -26,3 +26,14 @@
          break
 # fibonacci and input()
       fib(10)
+
+## Here I'm
+
+* [Instagram](https://www.instagram.com/pythonistas/) 
+* [Twitter](https://twitter.com/AakashPadhiyar9) 
+* [Linkedin](https://www.linkedin.com/in/aakash-padhiyar-8711aa182/) 
+
+# Information
+
+## BY aakashpadhiyar
+## 8140171224
